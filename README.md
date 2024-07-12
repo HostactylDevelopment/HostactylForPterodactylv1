@@ -41,3 +41,7 @@ Coming Soon.
 
 > [!KINDLY READ THIS]
 > Kindly do not complain of lack of the features in the dashboard as it is the very first version of Hostactyl so there aren't that much features that should be included.
+
+# Hostactyl+
+
+Hostactyl+ is an advanced version of the free version starting at only 5$ / 8 euros. You will get an very advanced dashboard and you will help us run this project by contributing in it!
