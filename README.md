@@ -44,4 +44,4 @@ Coming Soon.
 
 # Hostactyl+
 
-Hostactyl+ is an advanced version of the free version starting at only 5$ / 8 euros. You will get an very advanced dashboard and you will help us run this project by contributing in it!
+Hostactyl+ is an advanced version of the free version starting at only 5$ / 4.5 euros. You will get an very advanced dashboard and you will help us run this project by contributing in it!
