@@ -45,3 +45,7 @@ Coming Soon.
 # Hostactyl+
 
 Hostactyl+ is an advanced version of the free version starting at only 5$ / 4.5 euros. You will get an very advanced dashboard and you will help us run this project by contributing in it!
+
+# READ THIS (IMPORTANT:)
+
+You have to keep **Powered by Hostactyl** in the footer or else it might even go to legal actions. In Hostactyl+, it is not compulsory to keep the copyright message, but is compulsory in the free version.
