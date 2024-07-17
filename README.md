@@ -55,3 +55,11 @@ Hostactyl+ is an advanced version of the free version starting at only 5$ / 4.5 
 # Warning
 
 We cannot force you to keep the **Powered by Hostactyl** in the footer, but please consider keeping it. It helps getting more visibility to the project and so getting better. We won't do technical support for installations without the notice in the footer. We may DMCA the website in certain conditions. Please do keep the footer though.
+
+# SEE THIS:
+
+Hostactyl v1 Beta (First Version) Information:
+
+Release Date: 10th of August, 2024.
+
+End of Life (EOL) Date: 10th of October, 2024.
