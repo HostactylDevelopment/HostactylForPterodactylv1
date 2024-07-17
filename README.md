@@ -15,6 +15,8 @@ Hostactyl is an open-source Modern Pterodactyl Client Panel made for hosting(s) 
 | Linux     | ✔️ (All)         |  ✔️ (All)
 | Rocky Linux    ❌ (All)             | ❌ (All)    |
 
+### Rocky Linux will be available very soon!
+
 # Installation:
 
 Coming Soon.
@@ -27,7 +29,7 @@ Coming Soon.
 
 - Register Page
 
-- Dashboard (Front)
+- Dashboard (View Resources, Edir your Server, Delete your server &amp; more!)
 
 - Earning Methods (AFK and Linkvertise.)
 
