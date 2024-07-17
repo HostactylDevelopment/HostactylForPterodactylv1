@@ -23,7 +23,7 @@ Coming Soon.
 
 # Features:
 
-- A Homepage (will be included when you will install the dashboard, it will be automatically installed on your system!)
+- A Landing Page (You can customize it further yourself.)
 
 - Login Page
 
@@ -44,6 +44,10 @@ Coming Soon.
 - Terms of Services Page
 
 - Privacy Policy Page
+
+# NOTE:
+
+The Customization of the Landing Page is ONLY allowed and not for other pages!
 
 > [!KINDLY READ THIS]
 > Kindly do not complain of lack of the features in the dashboard as it is the very first version of Hostactyl so there aren't that much features that should be included.
