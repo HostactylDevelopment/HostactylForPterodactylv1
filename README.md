@@ -41,6 +41,10 @@ Coming Soon.
 
 - Account Settings
 
+- Terms of Services Page
+
+- Privacy Policy Page
+
 > [!KINDLY READ THIS]
 > Kindly do not complain of lack of the features in the dashboard as it is the very first version of Hostactyl so there aren't that much features that should be included.
 
