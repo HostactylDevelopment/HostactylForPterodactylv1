@@ -1,9 +1,9 @@
 # Hostactyl
 
 > [!TO BE NOTED]
-> This version of Hostactyl is in the beta stage. This is the very first version of the client panel. This version may not be compatible for proper hosting(s) for now, however, it is good for testing purposes and pratice.
+> This version of Hostactyl for Pterodactyl is in the beta stage. This is the very first version of the client panel. This version may not be compatible for production purposes for now, however it is great for testing purposes and pratice.
 
-Hostactyl is an open-source Modern Pterodactyl Client Panel made for hosting(s) to make their services reliable with our easy-to-use client panel.
+Hostactyl for Pterodactyl is an open-source Modern Pterodactyl Client Panel made for hosting(s) to make their services reliable with our easy-to-use client panel.
 
 # Supported Operating Systems:
 
@@ -54,7 +54,7 @@ The Customization of the Landing Page is ONLY allowed and not for other pages!
 
 # Hostactyl+
 
-Hostactyl+ is an advanced version of the free version starting at only 5$ / 4.5 euros. You will get an very advanced dashboard and you will help us run this project by contributing in it!
+Hostactyl+ for Pterodactyl is an advanced version of the free version starting at only 5$ / 4.5 euros. You will get an very advanced dashboard and you will help us run this project by contributing in it!
 
 # Warning
 
@@ -62,7 +62,7 @@ We cannot force you to keep the **Powered by Hostactyl** in the footer, but plea
 
 # SEE THIS:
 
-Hostactyl v1 Beta (First Version) Information:
+Hostactyl For Pterodactyl v1 Beta (First Version) Information:
 
 Release Date: 10th of August, 2024.
 
