@@ -21,6 +21,10 @@ Hostactyl for Pterodactyl is an open-source Modern Pterodactyl Client Panel made
 
 Coming Soon.
 
+# Updating the Client Panel:
+
+Coming Soon.
+
 # Features:
 
 - A Landing Page (You can customize it further yourself.)
