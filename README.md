@@ -67,3 +67,7 @@ Hostactyl For Pterodactyl v1 Beta (First Version) Information:
 Release Date: 10th of August, 2024.
 
 End of Life (EOL) Date: 10th of October, 2024.
+
+## Can I contribute to the project?
+
+Yes, You can feel free to contribute in a project. Simply code something which is needed to be added in the project and create a commit and we will review it within 48 hours!
