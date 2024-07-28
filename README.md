@@ -59,3 +59,5 @@ We cannot force you to keep the **Powered by Hostactyl** in the footer, but plea
 ## Can I contribute to the project?
 
 Yes, You can feel free to contribute in a project. Simply code something which is needed to be added in the project and create a commit and we will review it within 48 hours!
+
+### This is a fork of Fixed-Palladium
