@@ -23,15 +23,13 @@ Hostactyl for Pterodactyl is an open-source Modern Pterodactyl Client Panel made
 
 # Features:
 
-- A Landing Page (You can customize it further yourself.)
-
 - Login Page
 
 - Register Page
 
 - Dashboard (View Resources, Edir your Server, Delete your server &amp; more!)
 
-- Earning Methods (AFK and Linkvertise (Soon).)
+- Earning Methods (AFK and Linkvertise.) (Linkvertise will be available in the next update.)
 
 - Create Server Page
 
