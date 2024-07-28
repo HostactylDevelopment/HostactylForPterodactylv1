@@ -19,11 +19,7 @@ Hostactyl for Pterodactyl is an open-source Modern Pterodactyl Client Panel made
 
 # Installation:
 
-[Docs](https://docs-hostactyl.pages.dev/)
-
-# Updating the Client Panel:
-
-Coming Soon.
+[Documentation](https://docs-hostactyl.pages.dev/)
 
 # Features:
 
@@ -59,14 +55,6 @@ Hostactyl+ for Pterodactyl is an advanced version of the free version starting a
 # Warning
 
 We cannot force you to keep the **Powered by Hostactyl** in the footer, but please consider keeping it. It helps getting more visibility to the project and so getting better. We won't do technical support for installations without the notice in the footer. We may DMCA the website in certain conditions. Please do keep the footer though.
-
-# SEE THIS:
-
-Hostactyl For Pterodactyl v1 Beta (First Version) Information:
-
-Release Date: 10th of August, 2024.
-
-End of Life (EOL) Date: 10th of October, 2024.
 
 ## Can I contribute to the project?
 
