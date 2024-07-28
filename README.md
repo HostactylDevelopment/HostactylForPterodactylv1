@@ -39,6 +39,8 @@ Hostactyl for Pterodactyl is an open-source Modern Pterodactyl Client Panel made
 
 - Account Settings
 
+- Admin (Add Coins, Set your Coins, Add Resources, Set your Resources, Scan Eggs, Scan Locations, Ban User, Unban User.)
+
 # NOTE:
 
 The Customization of the Landing Page is ONLY allowed and not for other pages!
