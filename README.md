@@ -19,7 +19,7 @@ Hostactyl for Pterodactyl is an open-source Modern Pterodactyl Client Panel made
 
 # Installation:
 
-Coming Soon.
+[Docs](https://docs-hostactyl.pages.dev/)
 
 # Updating the Client Panel:
 
@@ -35,7 +35,7 @@ Coming Soon.
 
 - Dashboard (View Resources, Edir your Server, Delete your server &amp; more!)
 
-- Earning Methods (AFK and Linkvertise.)
+- Earning Methods (AFK and Linkvertise (Soon).)
 
 - Create Server Page
 
@@ -44,10 +44,6 @@ Coming Soon.
 - Store
 
 - Account Settings
-
-- Terms of Services Page
-
-- Privacy Policy Page
 
 # NOTE:
 
