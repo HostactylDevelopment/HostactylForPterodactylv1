@@ -61,3 +61,5 @@ We cannot force you to keep the **Powered by Hostactyl** in the footer, but plea
 Contributions are always welcome!
 
 ### This is a fork of Fixed-Palladium
+
+## This Project has been discounted. It is NOT recommended to use this anymore, as the dashboard will not have any updates.
